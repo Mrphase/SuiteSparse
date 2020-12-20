@@ -1,5 +1,5 @@
 
-Zehui Xie tesing data date:    2020-12-20-02.46.18
+Zehui Xie tesing data date:    2020-12-20-03.08.35
 
 
 
@@ -19,8 +19,8 @@ Before nentries: 32739   nrows : 8192 ncols : 8192
 7 round, nvals: 1310202
 8 round, nvals: 1661835
 After nentries: 1656270   nrows : 8192 ncols : 8192
- Time(ms):
- 601754.821022
+ Time(s):
+ 0.587136
 
 ------------start------------------
 ./Zehui_TR_SuiteSparse
@@ -38,8 +38,8 @@ Before nentries: 131042   nrows : 32768 ncols : 32768
 7 round, nvals: 4364278
 8 round, nvals: 4720687
 After nentries: 4703128   nrows : 32768 ncols : 32768
- Time(ms):
- 956789.279007
+ Time(s):
+ 0.967828
 
 ------------start------------------
 ./Zehui_TR_SuiteSparse
@@ -53,8 +53,8 @@ Before nentries: 71399   nrows : 22963 ncols : 22963
 3 round, nvals: 1275753
 4 round, nvals: 1489641
 After nentries: 1477572   nrows : 22963 ncols : 22963
- Time(ms):
- 181913.899956
+ Time(s):
+ 0.186107
 
 ------------start------------------
 ./Zehui_TR_SuiteSparse
@@ -69,8 +69,8 @@ Before nentries: 34127   nrows : 8114 ncols : 8114
 4 round, nvals: 17264342
 5 round, nvals: 21402901
 After nentries: 21400336   nrows : 8114 ncols : 8114
- Time(ms):
- 46821898.264927
+ Time(s):
+ 46.588160
 
 ------------start------------------
 ./Zehui_TR_SuiteSparse
@@ -88,5 +88,5 @@ Before nentries: 524248   nrows : 131072 ncols : 131072
 7 round, nvals: 18817002
 8 round, nvals: 22773601
 After nentries: 23499929   nrows : 131072 ncols : 131072
- Time(ms):
- 5200079.267961
+ Time(s):
+ 5.258863
