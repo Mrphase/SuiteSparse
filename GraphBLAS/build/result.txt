@@ -1,0 +1,92 @@
+
+Zehui Xie tesing data date:    2020-12-20-02.46.18
+
+
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: (null)
+reading file: finish!
+Before nentries: 32739   nrows : 8192 ncols : 8192
+0 round, nvals: 32739
+1 round, nvals: 32739
+2 round, nvals: 61470
+3 round, nvals: 123451
+4 round, nvals: 255841
+5 round, nvals: 501268
+6 round, nvals: 854685
+7 round, nvals: 1310202
+8 round, nvals: 1661835
+After nentries: 1656270   nrows : 8192 ncols : 8192
+ Time(ms):
+ 601754.821022
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: (null)
+reading file: finish!
+Before nentries: 131042   nrows : 32768 ncols : 32768
+0 round, nvals: 131042
+1 round, nvals: 131042
+2 round, nvals: 245169
+3 round, nvals: 482017
+4 round, nvals: 977599
+5 round, nvals: 1924171
+6 round, nvals: 3301103
+7 round, nvals: 4364278
+8 round, nvals: 4720687
+After nentries: 4703128   nrows : 32768 ncols : 32768
+ Time(ms):
+ 956789.279007
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: (null)
+reading file: finish!
+Before nentries: 71399   nrows : 22963 ncols : 22963
+0 round, nvals: 71399
+1 round, nvals: 71399
+2 round, nvals: 442863
+3 round, nvals: 1275753
+4 round, nvals: 1489641
+After nentries: 1477572   nrows : 22963 ncols : 22963
+ Time(ms):
+ 181913.899956
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: (null)
+reading file: finish!
+Before nentries: 34127   nrows : 8114 ncols : 8114
+0 round, nvals: 34127
+1 round, nvals: 34127
+2 round, nvals: 137662
+3 round, nvals: 1629757
+4 round, nvals: 17264342
+5 round, nvals: 21402901
+After nentries: 21400336   nrows : 8114 ncols : 8114
+ Time(ms):
+ 46821898.264927
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: (null)
+reading file: finish!
+Before nentries: 524248   nrows : 131072 ncols : 131072
+0 round, nvals: 524248
+1 round, nvals: 524248
+2 round, nvals: 980994
+3 round, nvals: 1924757
+4 round, nvals: 3837115
+5 round, nvals: 7448768
+6 round, nvals: 13060462
+7 round, nvals: 18817002
+8 round, nvals: 22773601
+After nentries: 23499929   nrows : 131072 ncols : 131072
+ Time(ms):
+ 5200079.267961
