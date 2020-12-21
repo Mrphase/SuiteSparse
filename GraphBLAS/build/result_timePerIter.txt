@@ -1,0 +1,130 @@
+
+Zehui Xie tesing data date:    2020-12-21-06.51.54
+
+
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: out_delaunay_n13
+reading file: finish!
+Before nentries: 32739   nrows : 8192 ncols : 8192
+0 round, nvals: 32739
+	 time(s): 0.005008
+1 round, nvals: 32739
+	 time(s): 0.009886
+2 round, nvals: 61470
+	 time(s): 0.019392
+3 round, nvals: 123451
+	 time(s): 0.054754
+4 round, nvals: 255841
+	 time(s): 0.096979
+5 round, nvals: 501268
+	 time(s): 0.170757
+6 round, nvals: 854685
+	 time(s): 0.311635
+7 round, nvals: 1310202
+	 time(s): 0.465918
+8 round, nvals: 1661835
+	 time(s): 0.618499
+After nentries: 1656270   nrows : 8192 ncols : 8192
+ Time(s):
+ 0.618510
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: out_delaunay_n15
+reading file: finish!
+Before nentries: 131042   nrows : 32768 ncols : 32768
+0 round, nvals: 131042
+	 time(s): 0.006892
+1 round, nvals: 131042
+	 time(s): 0.014799
+2 round, nvals: 245169
+	 time(s): 0.055574
+3 round, nvals: 482017
+	 time(s): 0.094017
+4 round, nvals: 977599
+	 time(s): 0.163201
+5 round, nvals: 1924171
+	 time(s): 0.309225
+6 round, nvals: 3301103
+	 time(s): 0.507947
+7 round, nvals: 4364278
+	 time(s): 0.738765
+8 round, nvals: 4720687
+	 time(s): 0.960949
+After nentries: 4703128   nrows : 32768 ncols : 32768
+ Time(s):
+ 0.960960
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: as-22july06
+reading file: finish!
+Before nentries: 71399   nrows : 22963 ncols : 22963
+0 round, nvals: 71399
+	 time(s): 0.006789
+1 round, nvals: 71399
+	 time(s): 0.041049
+2 round, nvals: 442863
+	 time(s): 0.084466
+3 round, nvals: 1275753
+	 time(s): 0.134508
+4 round, nvals: 1489641
+	 time(s): 0.178646
+After nentries: 1477572   nrows : 22963 ncols : 22963
+ Time(s):
+ 0.178658
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: p2p-Gnutella09
+reading file: finish!
+Before nentries: 34127   nrows : 8114 ncols : 8114
+0 round, nvals: 34127
+	 time(s): 0.007549
+1 round, nvals: 34127
+	 time(s): 0.036393
+2 round, nvals: 137662
+	 time(s): 0.258535
+3 round, nvals: 1629757
+	 time(s): 11.548400
+4 round, nvals: 17264342
+	 time(s): 28.700442
+5 round, nvals: 21402901
+	 time(s): 45.890243
+After nentries: 21400336   nrows : 8114 ncols : 8114
+ Time(s):
+ 45.890257
+
+------------start------------------
+./Zehui_TR_SuiteSparse
+ nthreads: 48
+reading file: out_delaunay_n17
+reading file: finish!
+Before nentries: 524248   nrows : 131072 ncols : 131072
+0 round, nvals: 524248
+	 time(s): 0.020805
+1 round, nvals: 524248
+	 time(s): 0.060576
+2 round, nvals: 980994
+	 time(s): 0.106326
+3 round, nvals: 1924757
+	 time(s): 0.192774
+4 round, nvals: 3837115
+	 time(s): 0.384574
+5 round, nvals: 7448768
+	 time(s): 0.859830
+6 round, nvals: 13060462
+	 time(s): 1.904185
+7 round, nvals: 18817002
+	 time(s): 3.518035
+8 round, nvals: 22773601
+	 time(s): 5.235180
+After nentries: 23499929   nrows : 131072 ncols : 131072
+ Time(s):
+ 5.235190
